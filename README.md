@@ -1,4 +1,4 @@
-# Digital<span style="color: #e63946;">Wave</span> Blog
+# DigitalWave Blog
 
 
 Este é um projeto de blog estático fictício voltado para tecnologia, desenvolvido utilizando HTML, CSS e Javascript. O conteúdo do blog, incluindo os textos dos posts, foi gerado por meio de inteligência artificial. O blog consiste em duas páginas principais: a página inicial, onde são exibidos os posts em formato de cards, e a página de visualização de um post específico.
