@@ -34,7 +34,7 @@ Este é um projeto de blog estático fictício voltado para tecnologia, desenvol
 
 ## Site do Blog
 
-- **Vercel**: [DigitalWave Blog]()
+- **Vercel**: (https://digital-wave-blog.vercel.app/)
 
 ---
 
