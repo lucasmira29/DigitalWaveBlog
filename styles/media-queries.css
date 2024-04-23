@@ -1,0 +1,190 @@
+@media (max-width: 1250px) {
+    .cabecalho {
+        gap: 0;
+    }
+
+    .cabecalho__titulo {
+        font-size: 2em;
+    }
+
+
+    .menu {
+        gap: 1em;
+    }
+
+    .menu__links {
+        font-size: 1em;
+        padding: 10px;
+    }
+
+    .cards {
+        padding: 10px;
+        height: auto;
+    }
+
+   .post_date_theme {
+        font-size: 0.9rem;
+   }
+
+   .card_title {
+        font-size: 1.2rem;
+   }
+
+   .post_text {
+        font-size: 0.9rem;
+        margin-bottom: 0;
+        height: auto;    
+   }
+
+   .card_box_views {
+        font-size: 0.8em;
+        height: 5%;
+        align-items: end;
+   }
+}
+
+
+@media (max-width: 975px) {
+    .cards {
+        width: 40vw;
+        height: 60vh;
+    }
+    
+    .body {
+        height: 200%;
+    }
+
+}
+
+@media (max-width: 870px) {
+    .logo{
+        width: 1em;
+    }
+
+    .cabecalho__titulo {
+        font-size: 1.8rem;
+    }
+
+    .menu__links {
+        font-size: 0.7rem;
+        padding: 5px;
+    }
+
+    .container {
+        justify-content: center;
+        gap: 2em;
+    }
+
+
+    .cards {
+        width: 40vw;
+        height: 50vh;
+    }
+
+    .card_title {
+        font-size: 1rem;
+    }
+
+    .post_date_theme {
+        font-size: 0.7rem;
+    }
+}
+
+
+@media (max-width: 670px) {
+    .cabecalho__titulo{
+        display: flex;
+        align-items: center;
+        gap: 1px;
+        margin: 0;
+    }
+
+    .cabecalho {
+        height: 10%;
+        gap: 3em;
+    }
+
+    .container {
+        padding-top: 130px;
+    }
+
+    .menu {
+        gap: 0.5em;
+        align-items: center;
+    }
+
+    .menu__links {
+        font-size: 0.6rem;
+    }
+
+    .post_text {
+        font-size: 0.8rem;
+    }
+
+    .card_box_views {
+        font-size: 0.7rem;
+    }
+}
+
+
+@media (max-width: 595px) {
+    .cabecalho__titulo {
+        font-size: 1.2rem;
+    }
+
+    .cabecalho {
+        gap: 1em;
+        justify-content: none;
+    }
+
+    .menu {
+        width: auto;
+        justify-content: center;
+    }
+
+    .cards {
+        height: auto;
+    }
+
+    .link_destaque {
+        border: 2px solid var(--cor-links-destaque);
+    }
+
+
+    .menu__links {
+        padding: 2px;
+        font-size: 0.6rem;
+    }
+    
+    .container {
+        align-items: stretch
+    }
+
+    .rodape {
+        height: 18em;
+        margin: auto;
+    }
+
+
+    .rodape p {
+        font-size: 0.7rem;
+    }
+
+}
+
+
+@media (max-width: 420px) {
+    
+    .container {
+            padding-top: 100px;
+        }
+    
+    .cabecalho__titulo{
+        font-size: 1.1rem;
+    }
+
+    .menu__links {
+        font-size: 0.5rem;
+    }
+
+}
